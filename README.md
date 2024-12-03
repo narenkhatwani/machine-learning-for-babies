@@ -7,6 +7,9 @@ One of the key things while learning Machine Learning or any concepts is to unde
 
 I cannot upload the lectures of Dr Koutis for obvious reasons, but I have made my own notes of what I understood from his lectures and I am uploading them here. If it helps anyone understand any concept in Machine Learning, I and Sarang would be very happy.
 
-Sarang and I will also try to write readme descriptions for all the pdfs, so its easier for folks out there to relate the notes and theory. AND if Sarang is convinced we would also try to make some loom videos (I hope he agrees to this WILD time-consuming idea of mine).
+Sarang and I will also try to write readme descriptions for all the PDFs, so it's easier for folks out there to relate the notes and theory. AND if Sarang is convinced we would also try to make some loom videos (I hope he agrees to this WILD time-consuming idea of mine).
+
+A funny meme to make this theory look a little interesting:
+![the meme](https://i.imgflip.com/6jwasb.jpg)
 
 
